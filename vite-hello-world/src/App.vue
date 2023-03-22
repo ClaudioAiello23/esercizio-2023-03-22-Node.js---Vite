@@ -12,4 +12,4 @@ export default {
   <AppTitle />
 </template>
 
-<style scoped></style>
+<style scoped></style>  
