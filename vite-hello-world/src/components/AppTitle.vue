@@ -1,3 +1,4 @@
+<!-- PARTE VUE JS -->
 <script>
 export default {
   data() {
@@ -9,10 +10,12 @@ export default {
 }
 </script>
 
+<!-- PARTE HTML -->
 <template>
   <h1>La mia prima app con Vite!</h1>
 </template>
 
+<!-- PARTE CSS -->
 <style scoped>
 h1 {
   color: blue;

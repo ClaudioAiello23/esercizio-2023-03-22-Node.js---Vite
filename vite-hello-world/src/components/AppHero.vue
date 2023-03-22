@@ -1,14 +1,15 @@
+<!-- PARTE VUE JS -->
 <script>
 export default {
     data() {
         return {
 
         }
-
     }
 }
 </script>
 
+<!-- PARTE HTML-->
 <template>
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
@@ -18,8 +19,8 @@ export default {
     </div>
 </template>
 
+<!-- PARTE CSS -->
 <style scoped>
-/* Aggiunta classe da jumbotron Bootstrap - file - components - AppHero.vue */
 .jumbotron {
     padding: 6.25rem;
     background-color: lightgray;
