@@ -19,7 +19,7 @@ export default {
     </div>
 </template>
 
-<!-- PARTE CSS -->
+<!-- PARTE CSS - NB inserita la libreria Bootstrap in package.json con il comando da terminale 'npm i bootstrap@5.3.0-alpha1' (da Homepage Bootstrap) -->
 <style scoped>
 .jumbotron {
     padding: 6.25rem;
