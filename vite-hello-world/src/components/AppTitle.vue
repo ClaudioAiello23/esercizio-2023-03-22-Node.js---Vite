@@ -10,9 +10,12 @@ export default {
 </script>
 
 <template>
-  <header>
-    <h1>La mia prima app con Vite!</h1>
-  </header>
+  <h1>La mia prima app con Vite!</h1>
 </template>
 
-<style scoped></style>
+<style scoped>
+h1 {
+  color: blue;
+  font-size: 2.5rem;
+}
+</style>
